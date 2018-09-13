@@ -15,10 +15,6 @@ Finished in 0.36783 seconds
 
 See [ios7crypt.rb](https://github.com/mcandre/ios7crypt/blob/master/ruby/ios7crypt.rb) or rubycheck's [self-tests](https://github.com/mcandre/rubycheck/blob/master/spec/rubycheck_spec.rb) for more information.
 
-# HOMEPAGE
-
-http://www.yellosoft.us/quickcheck
-
 # RUBYGEMS
 
 https://rubygems.org/gems/rubycheck
